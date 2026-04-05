@@ -2,7 +2,7 @@
 # Fitness Center Management System (FitHub CRM)
 
 ## Overview
-This project is a Salesforce-based CRM system to manage fitness center operations.
+This project is built using Salesforce CRM to manage fitness center operations.
 
 ## Features
 - Membership Management
@@ -18,3 +18,8 @@ This project is a Salesforce-based CRM system to manage fitness center operation
 
 ## Demo
 Screenshots included
+
+## Objects
+- Member
+- Trainer
+- Class
